@@ -6,7 +6,6 @@
 * Django restframework
 
 ### Install Guide:  
-    cd Pooling  
     pipenv sync  
     pipenv shell
     python manage.py makemigrations
